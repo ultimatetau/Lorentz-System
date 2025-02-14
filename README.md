@@ -1,6 +1,6 @@
 # Lorentz-System
 
-Very simple Lorentz System utilizing Runge-Kutta 4. 
+Very simple Lorentz System utilizing Runge-Kutta 4 in C++. 
 
 Compile with: "g++ lorenz-System-RK4.cpp -o lorenz"
 run with: "./lorenz"
